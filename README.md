@@ -1,5 +1,7 @@
 In this repository, I have placed my notebooks with works on feature selection. The aim of doing the work is to gain hands-on experience, building intuition, and getting familiar with the most frequent approaches (filter, wrapper, embedded and hybrid methods) when working on feature selection. Feature selection itself is done with usage of scikit-learn==0.23.2 and imbalanced-learn==0.7.0 libraries.
 
+=======================================================
+
 ## Table of Contents
 
 1. **01_FILTER_METHODS_Constant_Quasi_Constant_Duplicates**
@@ -58,3 +60,8 @@ In this repository, I have placed my notebooks with works on feature selection. 
 - seaborn==0.11.0
 - yapf==0.30.0
 - yellowbrick==1.2
+
+=======================================================
+
+Tons of thanks to Soledad Galli as mostly notebooks and materials in this repo are based on her course ( 
+https://www.udemy.com/course/feature-selection-for-machine-learning/ )
